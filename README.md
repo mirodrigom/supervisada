@@ -2,15 +2,15 @@
 
 # SyncBet front-end framework
 
--AngularJS
--NodeJS
--MongoDB
+- AngularJS
+- NodeJS
+- MongoDB
 
-First steps:
+### First steps:
 
-git clone https://github.com/mirodrigom/supervisada.git
-cd supervisada/
-npm install
-npm install --global bower
-bower install jquery
-gulp serve
+- git clone https://github.com/mirodrigom/supervisada.git
+- cd supervisada/
+- npm install
+- npm install --global bower
+- bower install jquery
+- gulp serve
