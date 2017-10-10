@@ -18,7 +18,8 @@
         profile: IMAGES_ROOT + 'app/profile/',
         amMap: 'assets/img/theme/vendor/ammap//dist/ammap/images/',
         amChart: 'assets/img/theme/vendor/amcharts/dist/amcharts/images/',
-        teams: IMAGES_ROOT + 'app/teams/'
+        teams: IMAGES_ROOT + 'app/teams/',
+        system: IMAGES_ROOT + 'app/system/'
       }
     })
     .constant('colorHelper', {
